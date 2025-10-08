@@ -1,0 +1,22 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 缓存与编译文件
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter 缓存
+*.ipynb_checkpoints
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 环境配置
+venv/
+.env
+
+# 数据文件或模型输出（如果太大）
+*.pth
+*.csv
